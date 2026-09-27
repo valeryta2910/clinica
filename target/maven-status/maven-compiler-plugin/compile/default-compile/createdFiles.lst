@@ -1,0 +1,5 @@
+umariana\clinica\GestionarPaciente.class
+umariana\clinica\JAXRSConfiguration.class
+servlets\recibePaciente.class
+umariana\clinica\Paciente.class
+umariana\clinica\resources\JavaEE8Resource.class
